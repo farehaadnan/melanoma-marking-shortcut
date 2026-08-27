@@ -46,12 +46,12 @@ One nevus, three models, same synthetic marking:
 | Biased | **Melanoma** | 73.6% |
 | Fixed | Nevus | 1.4% |
 
-*(See `figures/gradcam_comparison.png` for the Grad-CAM panel — insert the 4-image comparison here.)*
+*(See `gradcam_comparison.png` for the Grad-CAM panel — insert the 4-image comparison here.)*
 
 ## Repository contents
 
-- `shortcut_learning_study.ipynb` — the full notebook, runnable top-to-bottom on a free-tier Colab GPU.
-- `figures/` — Grad-CAM comparisons and result plots referenced above.
+- `melanoma_marking_shortcut.ipynb` — the full notebook, runnable top-to-bottom on a free-tier Colab GPU.
+- `gradcam_comparison.png` — Grad-CAM comparisons and result plots referenced above.
 
 ## How to run
 
