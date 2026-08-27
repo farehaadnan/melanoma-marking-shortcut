@@ -46,7 +46,7 @@ One nevus, three models, same synthetic marking:
 | Biased | **Melanoma** | 73.6% |
 | Fixed | Nevus | 1.4% |
 
-*(See `gradcam_comparison.png` for the Grad-CAM panel — insert the 4-image comparison here.)*
+![Grad-CAM comparison across baseline, biased, and fixed models](gradcam_comparison.png)
 
 ## Repository contents
 
